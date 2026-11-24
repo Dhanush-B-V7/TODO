@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Todo",
+  "description": "A fast, keyboard-friendly task planner ready for GitHub and Vercel deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
